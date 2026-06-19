@@ -1,0 +1,19 @@
+{
+  "started_at": "2026-06-19T07:24:37.095356+00:00",
+  "model": "qwen-2.5-14b",
+  "api_base": "https://grid.x402compute.cc",
+  "target_usd": 3.0,
+  "parallel": 1,
+  "max_tokens": 3072,
+  "total_turns": 95,
+  "total_prompt_tokens": 612361,
+  "total_completion_tokens": 61273,
+  "total_tokens": 673634,
+  "cumulative_cost_usd": 0.0034099999999999994,
+  "errors": 2,
+  "stop_reason": null,
+  "last_update": "2026-06-19T07:48:13.277883+00:00",
+  "turns_by_model": {
+    "llama-3.2-3b": 95
+  }
+}
