@@ -65,6 +65,18 @@ contributed to by anyone who stakes `$SGL` and brings a TEE machine online.
 | 2 | SCN-003 · *(planned)* | First decentralized fine-tune on DiComp; baseline comparison |
 | 3 | SCN-004 · *(planned)* | Single large model sharded across clusters with bounded latency |
 
+## Paper series
+
+Polished manuscripts are maintained separately from the experiment ledger in the public paper-series repository:
+
+**https://github.com/EventHorizon-Labs/singularity-cloud-network-research**
+
+| Paper | Relationship to roadmap |
+|-------|--------------------------|
+| **Tokenized Compute Markets** | Economic mechanism behind self-growing compute capacity and agent-native cloud markets |
+| **Singularity Grid** *(forthcoming)* | Formal architecture and verification model for Phase 0 confidential inference |
+| **Singularity Hive Mind** *(forthcoming)* | Formal sharded-serving model for Phase 3 |
+
 ---
 
 *Each phase ships in the open. We report results — and limitations — as research, not marketing.*

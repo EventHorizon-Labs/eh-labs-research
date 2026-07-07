@@ -55,6 +55,22 @@ cost-transparent, and honest about scope.
 
 ---
 
+## Papers and preprints
+
+Formal working papers for the Singularity Cloud Network live in the dedicated paper-series repository:
+
+**[EventHorizon-Labs/singularity-cloud-network-research](https://github.com/EventHorizon-Labs/singularity-cloud-network-research)**
+
+| Paper | Focus | Status |
+|---|---|---|
+| **Tokenized Compute Markets** | Self-growing, tokenized compute-market mechanism for community-owned AI infrastructure | Working paper v0.1 |
+| **Singularity Grid** | Verifiable, confidential inference across independent nodes | Forthcoming |
+| **Singularity Hive Mind** | Sharded large-model serving across many local/cloud nodes | Forthcoming |
+
+This repo remains the broader lab notebook: pillars, experiments, roadmaps, and research operations. The paper-series repo is the archival/publication surface for polished manuscripts, PDFs, source files, and citation metadata.
+
+---
+
 ## How to read this repo
 
 ```
@@ -65,7 +81,7 @@ eh-labs-research/
 ├── experiments/         ← what we've tested (SCN-### studies, reproducible)
 │   ├── _TEMPLATE/       ← start a new experiment here
 │   └── SCN-001-ouroboros/
-└── web/                 ← source for the public experiments page (eventhorizon labs site)
+└── web/                 ← source for the public experiments page (EventHorizon Labs site)
 ```
 
 ---
