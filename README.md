@@ -1,11 +1,17 @@
 <div align="center">
 
+<p>
+  <a href="https://www.ehlabs.xyz/research"><img src="assets/brand/ehlabs-logo.png" alt="EventHorizon Labs logo" width="130" /></a>
+</p>
+
 # Event Horizon Labs · Research
 
 **Building decentralized, verifiable, confidential, and agentic cloud infrastructure.**
 
 *Research toward a fully decentralized AI cluster — where data, training, and inference*
 *all run on trustless, attested hardware owned by no one and verifiable by everyone.*
+
+**[Research site](https://www.ehlabs.xyz/research)** · **[Singularity Cloud Network paper series](https://github.com/EventHorizon-Labs/singularity-cloud-network-research)**
 
 </div>
 
@@ -60,6 +66,12 @@ cost-transparent, and honest about scope.
 Formal working papers for the Singularity Cloud Network live in the dedicated paper-series repository:
 
 **[EventHorizon-Labs/singularity-cloud-network-research](https://github.com/EventHorizon-Labs/singularity-cloud-network-research)**
+
+<p align="center">
+  <a href="https://github.com/EventHorizon-Labs/singularity-cloud-network-research">
+    <img src="assets/brand/singularity-cloud-network-logo.png" alt="Singularity Cloud Network logo" width="96" />
+  </a>
+</p>
 
 | Paper | Focus | Status |
 |---|---|---|
